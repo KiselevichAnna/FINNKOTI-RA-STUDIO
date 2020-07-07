@@ -214,7 +214,7 @@
 }
 
 .social-link_v {
-    background: #7A58E9 url(./img/viber.png) center no-repeat;
+    background: #7A58E9 url(../img/viber.png) center no-repeat;
     width: 16px;
     height: 16px;
     -moz-border-radius: 50px;
@@ -224,7 +224,7 @@
 }
 
 .social-link_w {
-    background: #21C046 url(./img/wa.png) center no-repeat;
+    background: #21C046 url(../img/wa.png) center no-repeat;
     width: 16px;
     height: 16px;
     -moz-border-radius: 50px;
@@ -234,7 +234,7 @@
 }
 
 .social-link_t {
-    background: #2BA2DF url(./img/tel.png) center no-repeat;
+    background: #2BA2DF url(../img/tel.png) center no-repeat;
     width: 16px;
     height: 16px;
     -moz-border-radius: 50px;
@@ -248,7 +248,7 @@
     height: 605px;
 
     margin-top: 40px;
-    background: url(./img/promo.svg) no-repeat;
+    background: url(../img/promo.svg) no-repeat;
 }
 
 .prev {
@@ -277,7 +277,7 @@
 .prev .arrow-left {
     width: 30px;
     height: 30px;
-    background: url(./icons/left-arrow.svg) center no-repeat;
+    background: url(../icons/left-arrow.svg) center no-repeat;
     background-size: cover;
     position: absolute;
     top: 50%;
@@ -315,7 +315,7 @@
 .next .arrow-right {
     width: 30px;
     height: 30px;
-    background: url(./icons/right-arrow.svg) center no-repeat;
+    background: url(../icons/right-arrow.svg) center no-repeat;
     background-size: cover;
     position: absolute;
     top: 50%;
@@ -541,7 +541,7 @@
 .materials-image_panels {
     margin-top: 62px;
     margin-left: 130px;
-    background: url(./img/materials.svg) left no-repeat;
+    background: url(../img/materials.svg) left no-repeat;
     width: 383.69px;
     height: 343.79px;
 }
@@ -1537,7 +1537,7 @@ p.house-review-read {
     }
 
     .materials-image_panels {
-        background: url(./img/panels2.svg) left no-repeat;
+        background: url(../img/panels2.svg) left no-repeat;
         width: 260.9px;
         height: 276.78px;
         padding: 0;
@@ -1704,7 +1704,7 @@ p.house-review-read {
     .house-review {
         margin-top: 15px;
         font-size: 13px;
-        background: url(./img/quotes.svg) no-repeat;
+        background: url(../img/quotes.svg) no-repeat;
         background-position: right;
         padding-bottom: 62px;
 
@@ -1904,7 +1904,7 @@ p.house-review-read {
     .promo-text {
         width: 320px;
         height: 200px;
-        background: url(./img/promo.png) left;
+        background: url(../img/promo.png) left;
         margin: 0;
         padding-top: 44px;
         padding: 0;
